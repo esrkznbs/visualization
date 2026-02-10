@@ -1,7 +1,7 @@
 # Data Visualization
 
 ## Assignment 3: Final Project
-
+# Please see files: assignment_3_Tableau, Assignment3_Python_Visual, Intimate Partner and Family Violence.csv, Tableau_visual.png
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
